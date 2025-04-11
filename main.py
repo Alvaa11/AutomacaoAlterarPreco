@@ -9,9 +9,9 @@
 #   +===================================+
 
 
-from Interface import view
+from interface.view import View
 
 
-view.window()
+inicio = View()
 
-
+inicio.window()
