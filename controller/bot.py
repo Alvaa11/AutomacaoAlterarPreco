@@ -23,10 +23,10 @@ class Bot():
         # Abrir o Putty.exe e o servidor DB662
         
         # Abrir o Putty.exe
-        bf.moverMouse(999, 871)
+        bf.moverMouse(972, 878)
         bf.clicar(button='right')
         sleep(0.5)
-        bf.moverMouse(999,783)
+        bf.moverMouse(969,783)
         bf.clicar()
         sleep(0.5)
 
